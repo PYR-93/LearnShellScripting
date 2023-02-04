@@ -1,0 +1,7 @@
+The line "#!/bin/bash" is called a shebang. It is used in shell scripts to specify the interpreter that should be used to run the script. In this case, the shebang is specifying that the script should be executed using the bash shell. This line is typically placed as the first line in a shell script, and it allows the script to be executed as a standalone program, rather than having to be passed as an argument to the shell. When the script is executed, the operating system uses the shebang to determine which interpreter to use to run the script, ensuring that the script is executed with the correct shell.
+
+
+echo command is used to print the value on screen eg : echo heloo --- output -> hello
+
+
+read command is used to read the input from user
