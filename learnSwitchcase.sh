@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo choose the option below
-echo 1=date
-echo 2=current working direc
-echo 3=presentworking directory
+# echo choose the option below
+# echo 1=date
+# echo 2=current working direc
+# echo 3=presentworking directory
 
 read choice
 
